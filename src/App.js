@@ -11,6 +11,14 @@ export default function App() {
           This project was coded by Rosemarie Feliciano and is{" "}
           <a href="https://github.com/frosemarie92/react-2022" target="_blank">
             open-sourced on github
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://resilient-tiramisu-69660f.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
           </a>
         </footer>
       </div>
