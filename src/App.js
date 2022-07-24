@@ -9,7 +9,11 @@ export default function App() {
         <h1>Weather App</h1>
         <footer>
           This project was coded by Rosemarie Feliciano and is{" "}
-          <a href="https://github.com/frosemarie92/react-2022" target="_blank">
+          <a
+            href="https://github.com/frosemarie92/react-2022"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             open-sourced on github
           </a>{" "}
           and{" "}
